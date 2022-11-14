@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- permissions -->
+    <string name="unavailable_feature">Функция недоступна</string>
+    <string name="location_rationale">Доступ к местоположению важен для этого приложения. Пожалуйста, дайте разрешение.</string>
+    <string name="ok">Ок</string>
+    <string name="nope">Нет</string>
+    <string name="permission_denied_message">В разрешении на местоположение отказано. Пожалуйста, предоставьте нам доступ к экрану настроек.</string>
+    <string name="open_settings">Открыть настройки</string>
+
+    <!-- for app -->
+    <string name="unknown">Неизвестно</string>
+    <string name="today">Сегодня</string>
+    <string name="icon_location">Иконка локации</string>
+    <string name="icon_wind">Иконка ветра</string>
+    <string name="icon_humidity">Иконка влажности</string>
+    <string name="icon_settings">Иконка настроек</string>
+    <string name="icon_weather">Иконка погоды</string>
+    <string name="sunrise_icon">Восход</string>
+    <string name="sunset_icon">Закат</string>
+    <string name="humidity_icon">Влажность</string>
+    <string name="day_wind_icon">Ветер в этот день</string>
+    <string name="day_pressure_icon">Давление в этот день</string>
+
+
+    <!-- errors -->
+    <string name="connection_error">Извините, мы не можем загрузить прогноз для вас сейчас. Проверьте, правильно ли работают настройки вашего местоположения, и перезагрузите приложение</string>
+    <string name="location_error">Извините, мы не можем определить ваше местоположение. Пожалуйста, используйте функцию поиска, чтобы найти нужный вам прогноз.</string>
+    <string name="unknown_error">Произошла неизвестная ошибка</string>
+    <string name="no_internet_connection">Похоже, у вас отсутствует интернет-соединение.</string>
+    <string name="no_internet_connection_action">Понятно</string>
+    <string name="load_error_message">Невозможно загрузить прогноз для этого местоположения</string>
+    <string name="no_cities_message">Города не найдены</string>
+
+    <!-- for metrics -->
+    <string name="m_s">м/с</string>
+    <string name="pressure_units_mm_hg">%1$s мм рт.ст.</string>
+    <string name="termometer_icon">Температура</string>
+    <string name="tilda_icon">Тильда</string>
+    <string name="temperature_units_celsius">°</string>
+    <string name="icon_search">Иконка поиска</string>
+    <string name="search">Поиск</string>
+    <string name="close_icon">Иконка закрытия</string>
+    <string name="sad_face_icon">иконка пустого списка?</string>
+
+
+</resources>
